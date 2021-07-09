@@ -29,8 +29,7 @@ Modules
                        4.3. Add Dishes : Add Dishes, food and other eating foods.
                        4.4. Add Exercises : Add Exercise type and other details.
                       
-  ![image](https://user-images.githubusercontent.com/40006201/125047429-9b5d7980-e0bc-11eb-98d2-8dc7894729b3.png)
-
+![all](https://user-images.githubusercontent.com/40006201/125048106-36565380-e0bd-11eb-8d99-7d6b5b28fd14.png)
 
 
 5. Medicine Reminder :  User set reminder for medicine. In that user got the reminder for medicine.
