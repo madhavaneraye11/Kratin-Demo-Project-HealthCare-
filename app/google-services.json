@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419586164341",
+    "project_id": "kratindemoproject",
+    "storage_bucket": "kratindemoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419586164341:android:1c9373995a86056ad29a3c",
+        "android_client_info": {
+          "package_name": "com.spam.maddy.kratindemoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419586164341-8jeijhvd1p0osodd55hd8j6uvfji733q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcelHxdIFfwPhTXWLXtrFlxXjoSRmg93U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419586164341-8jeijhvd1p0osodd55hd8j6uvfji733q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
