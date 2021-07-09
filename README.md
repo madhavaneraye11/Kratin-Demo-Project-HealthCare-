@@ -4,6 +4,11 @@
 Firstly there are 7 to 8  introduction pages.
 
 
+
+https://user-images.githubusercontent.com/40006201/125050220-6868b500-e0bf-11eb-8553-cdaf460ca207.mp4
+
+
+
 After that it ask about your name age and emergency mobile number 
 
 Modules
