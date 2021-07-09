@@ -13,6 +13,8 @@ Modules
 
 
 2. Nearby FitnessClub : Using google map show all fitness club and gyms nearby you.
+            ![WhatsApp Image 2021-07-09 at 1 33 02 PM (1)](https://user-images.githubusercontent.com/40006201/125047064-373ab580-e0bc-11eb-8ea4-2c01301fd6fd.jpeg)
+
 
 3. Nearby Hospital : Using google map show all Hospital nearby you.
 
